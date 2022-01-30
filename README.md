@@ -1,9 +1,11 @@
 <p align="center">
   <h3 align="center">Hi, I’m Kimsong SAO 👋</h3>
-  <p align="center">I’m a software engineer specializing in building Business Applications.</p>
+  <p align="center">I’m a software engineer specializing in building business software solutions and consulting services.</p>
 </p>
 
-### About me
-> Experienced work with various industries such as Software Provider, Consumer Goods, Hotel, Banking, etc. 
-> Skilled in Web Application Development, Mobile Application Development, Desktop Application Development, Microsoft SQL Server Database, MySQL Databases, Data Warehousing, Project Management, Technical Consultant, and ERP Consultant. 
-> Strong professional with a Master of Information Technology Engineering focused on Major in Big Data/Data Science/Data Analytics from the Royal University of Phnom Penh.
+### Technologies:
+- ASP.NET Core
+- Laravel Framework
+- Android (Java, Kotlin)
+- iOS (Swift)
+- Cross-Platform Mobile App (Flutter, React Native)
