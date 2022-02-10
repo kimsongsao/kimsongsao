@@ -9,3 +9,12 @@
 - Android (Java, Kotlin)
 - iOS (Swift)
 - Cross-Platform Mobile App (Flutter, React Native)
+### Business Application:
+- Microsoft Dynamics 365 Business Central (NAV)
+- LS Retial & Hospitality
+- Soft4 LEasing & RealEstate
+- Point of Sales
+- Resturant Management System
+- Hotel Management System
+- KTV Management System
+- Spa & Massage Management System
